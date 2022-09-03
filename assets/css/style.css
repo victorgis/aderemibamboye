@@ -597,7 +597,15 @@ p {
   font-size: 28px;
   text-align: left;
   line-height: normal;
+  text-align: justify;
+  /* margin-right: 10px; */
 }
+
+.leadership-info {
+  margin: auto;
+}
+
+
 
 /*--------------------------------------------------------------
 # Services
@@ -1199,6 +1207,10 @@ blockquote {
     font-size: 20px;
   }
 
+  .p-leadership {
+    font-size: 20px;
+  }
+
   #about .about-descr .separator {
     max-width: 100%;
     margin-bottom: 0;
@@ -1279,6 +1291,10 @@ blockquote {
   }
 
   #about .about-descr .p-heading {
+    font-size: 20px;
+  }
+
+  .p-leadership {
     font-size: 20px;
   }
 
@@ -1365,6 +1381,10 @@ blockquote {
     font-size: 20px;
   }
 
+  .p-leadership {
+    font-size: 20px;
+  }
+
   #about .about-descr .separator {
     max-width: 100%;
     margin-bottom: 0;
@@ -1448,6 +1468,10 @@ blockquote {
     font-size: 20px;
   }
 
+  .p-leadership {
+    font-size: 20px;
+  }
+
   #about .about-descr .separator {
     max-width: 100%;
     margin-bottom: 0;
@@ -1527,6 +1551,10 @@ blockquote {
   }
 
   #about .about-descr .p-heading {
+    font-size: 20px;
+  }
+
+  .p-leadership {
     font-size: 20px;
   }
 
